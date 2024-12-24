@@ -1,17 +1,18 @@
 
-# **Fast React Pizza Clone**
 
-This is a clone of the popular **Fast React Pizza** application, designed to showcase my React development skills. The project demonstrates a responsive, interactive, and dynamic interface for managing orders and displaying pizza-related information. 
+# **Four Pizza**
+
+**Four Pizza** is a modern and interactive pizza ordering application built with React. This project is a clone of the popular **Fast React Pizza** application, with a personalized twist. It demonstrates my skills in React development, including creating reusable components, state management, and responsive design.
 
 ---
 
 ## **Features**
 
-- **Dynamic Menu:** Displays a list of pizzas dynamically rendered using React components.  
-- **Cart Management:** Add, remove, and update pizza orders in the cart.  
-- **Order Summary:** Displays the total price and details of the selected items.  
-- **Responsive Design:** Optimized for both desktop and mobile devices.  
-- **Reusable Components:** Built using modular and reusable React components for scalability.  
+- **Dynamic Menu:** Displays a list of pizzas dynamically rendered through reusable React components.  
+- **Cart Management:** Add, remove, and update pizza orders with real-time updates to the cart.  
+- **Order Summary:** Showcases the total price and detailed list of selected pizzas.  
+- **Responsive Design:** Fully optimized for desktops, tablets, and mobile devices.  
+- **Reusable Components:** Built with modular React components for scalability and maintainability.  
 
 ---
 
@@ -26,9 +27,9 @@ This is a clone of the popular **Fast React Pizza** application, designed to sho
 
 ## **How It Works**
 
-1. **Menu Display:** Browse through the available pizzas in a visually appealing menu format.  
-2. **Order Management:** Select pizzas, specify quantities, and manage the cart.  
-3. **Order Summary:** Review your order details, including total price and selected items.  
+1. **Pizza Menu:** Browse through the list of available pizzas.  
+2. **Order Management:** Add pizzas to your cart, adjust quantities, and remove items.  
+3. **Order Summary:** View a detailed summary of your cart, including the total cost.  
 
 ---
 
@@ -42,8 +43,8 @@ This is a clone of the popular **Fast React Pizza** application, designed to sho
 
 1. **Clone the Repository:**  
    ```bash  
-   git clone https://github.com/yourusername/fast-react-pizza-clone.git  
-   cd fast-react-pizza-clone  
+   git clone https://github.com/Code-with-Maqsood/Four-Pizza.git  
+   cd Four-Pizza  
    ```  
 
 2. **Install Dependencies:**  
@@ -64,7 +65,7 @@ This is a clone of the popular **Fast React Pizza** application, designed to sho
 ## **Project Structure**
 
 ```plaintext
-fast-react-pizza-clone/
+Four-Pizza/
 ├── src/
 │   ├── components/        # Reusable React components (e.g., Menu, Cart, OrderSummary)
 │   ├── pages/             # Page-level components
@@ -80,23 +81,23 @@ fast-react-pizza-clone/
 
 ## **Future Enhancements**
 
-- **Backend Integration:** Connect to a database to store pizza menu and order data.  
-- **Authentication:** Add user authentication for a personalized experience.  
-- **Order Tracking:** Implement a real-time order status feature.  
-- **Admin Panel:** Allow restaurant owners to update the menu and manage orders.  
+- **Backend Integration:** Connect to a backend server to fetch pizza data and store orders.  
+- **Authentication:** Allow users to log in and save their favorite orders.  
+- **Order Tracking:** Add real-time order tracking for a better user experience.  
+- **Admin Dashboard:** Enable admins to add, edit, or delete menu items dynamically.  
 
 ---
 
 ## **Inspiration**
 
-This project is a clone of the **Fast React Pizza** app, originally designed by [Jonas Schmedtmann](https://github.com/jonasschmedtmann). This clone was created to practice React development, including component structuring, state management, and responsive design.  
+This project is inspired by the **Fast React Pizza** app created by [Jonas Schmedtmann](https://github.com/jonasschmedtmann). I renamed and adapted the project as **Four Pizza** to reflect my custom implementation and learning experience in React development.  
 
 ---
 
 ## **Demo**
 
-If deployed, include a link to your live demo here:  
-[Fast React Pizza Clone Demo](#)  
+Check out the live version here:  
+[Four Pizza Live Demo](#) *(Add your deployment link here if available)*  
 
 ---
 
@@ -106,5 +107,3 @@ For any questions or feedback, feel free to reach out:
 **Muhammad Maqsood**  
 📧 maqsoodakhlaqi2022@gmail.com  
 📞 03433087163  
-
----
